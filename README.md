@@ -4,7 +4,7 @@
 This project analyzes historical video game sales data to uncover key trends in platform dominance, genre profitability, and the impact of reviews on sales.  
 
 **Read the full project article here:**  
-[Project Article on Notion](https://www.notion.so/Project-Article-1ab2aee0caf98025ba24cc587f842db8?pvs=4)  
+[Project Article on Notion](https://lying-nymphea-848.notion.site/Project-Article-1ab2aee0caf98025ba24cc587f842db8)  
 
 ## 🔍 Key Insights  
 - **PlayStation & Xbox dominate** total game sales.  
@@ -15,7 +15,7 @@ This project analyzes historical video game sales data to uncover key trends in 
 - 📄 **`[updated]VideoGame.ipynb`** – Full Jupyter Notebook  
 - 📁 **`data/`** 
   - `video_game_sales.csv` → Sample dataset
-- 📁 **`images/`** - Visualizations used in the analysis
+- 📁 **`images/`** - Visualizations used in the project
 - 📄 **`README.md`** – Project overview, insights, and usage instructions
 
 ## 💻 How to Run  
