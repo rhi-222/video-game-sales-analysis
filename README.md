@@ -4,7 +4,7 @@
 This project analyzes historical video game sales data to uncover key trends in platform dominance, genre profitability, and the impact of reviews on sales.  
 
 **Read the full project article here:**  
-[Project Article on Notion](https://lying-nymphea-848.notion.site/Project-Article-1ab2aee0caf98025ba24cc587f842db8)  
+[Project Article on Notion](https://lying-nymphea-848.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf98025ba24cc587f842db8)
 
 ## 🔍 Key Insights  
 - **PlayStation & Xbox dominate** total game sales.  
